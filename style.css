@@ -1,3 +1,14 @@
 body{
    background: blue;
 }
+form label
+
+
+ display: block;
+font-size: 25px;
+}
+
+td{
+   border: 2px solid;
+   border-color: aqua;
+}
